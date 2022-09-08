@@ -22,3 +22,4 @@ deepface/.DS_Store
 *.pyc
 
 old_deepface/
+deepface/
