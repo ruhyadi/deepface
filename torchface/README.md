@@ -1,2 +1,0 @@
-# Pytorch Implementation of DeepFace
-
